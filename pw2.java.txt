@@ -1,0 +1,8 @@
+class pw{
+ 	public static void name1(){
+	//code
+}
+ 	public static void name1(){
+	//code
+}
+}
